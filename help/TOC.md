@@ -5,12 +5,12 @@ user-guide-description: Sehen Sie sich Experience League-Tutorials zu Adobe [!DN
 source-git-commit: f67dfa11724d8d9d3d91dc6baea6c1e9b8ab5078
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 
-# Adobe [!DNL GenStudio for Performance Marketing]-Tutorials {#tutorials}
+# Tutorials zu Adobe [!DNL GenStudio for Performance Marketing] {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing] Tutorials](overview.md)
 + Erlebnisse erstellen {#creating-experiences}
