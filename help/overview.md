@@ -1,21 +1,115 @@
 ---
-title: GenStudio für Performance-Marketing-Tutorials
-description: Sehen Sie sich Video-Tutorials zu den Funktionen von GenStudio for Performance Marketing an. Erfahren Sie, wie Sie schnell On-Marke-Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
+title: GenStudio for Performance Marketing Tutorials
+description: Sehen Sie sich Video-Tutorials zu den Funktionen von GenStudio for Performance Marketing an. Erfahren Sie, wie Sie schnell markenkonforme Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
-source-git-commit: 6ed3e02f8c8f8d5992476a309631e0108de99a98
+exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
+source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '161'
+ht-degree: 27%
 
 ---
 
-
-# Adobe [!DNL GenStudio for Performance Marketing]-Tutorials
+# Tutorials zu Adobe [!DNL GenStudio for Performance Marketing]
 
 
 Optimale Nutzung von [!DNL GenStudio for Performance Marketing]. Verwenden Sie diese Tutorials, um die Funktionen von [!DNL GenStudio for Performance Marketing] kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen.
+
+## Markeneingabe
+
+<!-- CARDS
+
+* ./inputting-your-brand/inputting-brand-product-persona.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Inputting Brand, Product, and Persona">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="Eingabe von Marke, Produkt und Persona" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="Eingabe von Marke, Produkt und Persona"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" title="Eingabe von Marke, Produkt und Persona">Eingeben von Marke, Produkt und Persona</a>
+                    </p>
+                    <p class="is-size-6">In diesem Video wird ausführlich erläutert, wie Sie die Markenrichtlinien, Produkte und wichtigen Marketing-Rollen Ihres Unternehmens in GenStudio for Performance Marketing einbringen können.</p>
+                </div>
+                <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Erstellen von Erlebnissen
+
+<!-- CARDS
+
+* ./creating-experiences/creating-on-brand-emails.md
+* ./creating-experiences/creating-on-meta-ads.md
+
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create On-Brand Marketing Emails">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./creating-experiences/creating-on-brand-emails.md" title="Erstellen von On-Brand Marketing-E-Mails" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="Erstellen von On-Brand Marketing-E-Mails"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" title="Erstellen von On-Brand Marketing-E-Mails">Erstellen von On-Brand Marketing-E-Mails</a>
+                    </p>
+                    <p class="is-size-6">Sehen Sie sich eine detaillierte Erklärung dazu an, wie Sie markenkonforme Marketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing] erstellen.</p>
+                </div>
+                <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+</a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create On-Brand Meta Ads">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="./creating-experiences/creating-on-meta-ads.md" title="Erstellen von On-Brand-Metadatenanzeigen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Erstellen von On-Brand-Metadatenanzeigen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="Erstellen von On-Brand-Metadatenanzeigen">Erstellen von On-Brand-Metadatenanzeigen</a>
+                    </p>
+                    <p class="is-size-6">Folgen Sie einer detaillierten Anleitung zur Erstellung einer Meta-Anzeige in [!DNL GenStudio for Performance Marketing].</p>
+                </div>
+                <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 <!-- 
 
@@ -40,41 +134,42 @@ Curated learning experiences by role and skill level are also offered in the cou
 
 -->
 
-## Mitarbeiterauswahl
+<!--  
+## Staff picks
 
 <table>
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Erstellen von On-Brand Marketing-E-Mails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
-    <strong>Erstellen von On-Brand Marketing-E-Mails</strong>
+    <strong>Creating On-Brand Marketing Emails</strong>
     </a>
     </div>
     <p>
-    <em>Eine schrittweise Erläuterung der Erstellung von On-Brand-Marketing-E-Mails mit Adobe GenStudio for Performance Marketing.</em>
+    <em>A step by step explanation of how to create on-brand marketing emails with Adobe's GenStudio for Performance Marketing.</em>
     <p>
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Erstellen von On-Brand-Metadatenanzeigen" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
-    <strong>Erstellen von On-Brand-Metadatenanzeigen</strong>
+    <strong>Creating On-Brand Meta Ads</strong>
     </a>
     </div>
     <p>
-    <em>Folgen Sie einer schrittweisen Anleitung zum Erstellen einer Metaanzeige in GenStudio for Performance Marketing.</em>
+    <em>Follow a step-by-step product walk-thru of creating a meta ad in GenStudio for Performance Marketing.</em>
     <p>
   </td>
 </table>
 
 </div>
 
-<!--   
+ 
 ## Additional resources
 
 [Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
