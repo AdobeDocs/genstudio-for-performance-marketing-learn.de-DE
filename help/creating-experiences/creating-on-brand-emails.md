@@ -1,6 +1,6 @@
 ---
-title: Erstellen von On-Brand Marketing-E-Mails
-description: Sehen Sie sich eine schrittweise Erklärung an, wie Sie mit Adobe [!DNL GenStudio for Performance Marketing] On-Brand-Marketing-E-Mails erstellen.
+title: Erstellen von markeninternen Marketing-E-Mails
+description: Sehen Sie sich eine schrittweise Erklärung zum Erstellen von markenbezogenen Marketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing] an.
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen von Remarketing-E-Mails
+# Erstellen von markeninternen Marketing-E-Mails
 
-Eine schrittweise Erläuterung der Erstellung von Remarketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing].
+Eine schrittweise Erklärung zum Erstellen von markenbezogenen Marketing-E-Mails mit Adobe-[!DNL GenStudio for Performance Marketing].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)

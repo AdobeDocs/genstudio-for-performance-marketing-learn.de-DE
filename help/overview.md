@@ -1,5 +1,5 @@
 ---
-title: GenStudio for Performance Marketing Tutorials
+title: Tutorials von GenStudio for Performance Marketing
 description: Sehen Sie sich Video-Tutorials zu den Funktionen von GenStudio for Performance Marketing an. Erfahren Sie, wie Sie schnell markenkonforme Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -15,9 +15,9 @@ ht-degree: 27%
 # Tutorials zu Adobe [!DNL GenStudio for Performance Marketing]
 
 
-Optimale Nutzung von [!DNL GenStudio for Performance Marketing]. Verwenden Sie diese Tutorials, um die Funktionen von [!DNL GenStudio for Performance Marketing] kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen.
+Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden Sie diese Tutorials, um die Funktionen von [!DNL GenStudio for Performance Marketing] kennenzulernen und die Vorteile für Ihr Unternehmen zu nutzen.
 
-## Markeneingabe
+## Marke eingeben
 
 <!-- CARDS
 
@@ -39,9 +39,9 @@ Optimale Nutzung von [!DNL GenStudio for Performance Marketing]. Verwenden Sie d
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" title="Eingabe von Marke, Produkt und Persona">Eingeben von Marke, Produkt und Persona</a>
+                        <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" title="Eingabe von Marke, Produkt und Persona">Eingabe von Marke, Produkt und Rolle</a>
                     </p>
-                    <p class="is-size-6">In diesem Video wird ausführlich erläutert, wie Sie die Markenrichtlinien, Produkte und wichtigen Marketing-Rollen Ihres Unternehmens in GenStudio for Performance Marketing einbringen können.</p>
+                    <p class="is-size-6">In diesem Video wird detailliert erläutert, wie Sie die Markenrichtlinien, Produkte und wichtigen Marketing-Personas Ihres Unternehmens in GenStudio for Performance Marketing integrieren.</p>
                 </div>
                 <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
 <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
@@ -66,8 +66,8 @@ Optimale Nutzung von [!DNL GenStudio for Performance Marketing]. Verwenden Sie d
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./creating-experiences/creating-on-brand-emails.md" title="Erstellen von On-Brand Marketing-E-Mails" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="Erstellen von On-Brand Marketing-E-Mails"
+                    <a href="./creating-experiences/creating-on-brand-emails.md" title="Erstellen von markeninternen Marketing-E-Mails" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="Erstellen von markeninternen Marketing-E-Mails"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -75,7 +75,7 @@ Optimale Nutzung von [!DNL GenStudio for Performance Marketing]. Verwenden Sie d
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" title="Erstellen von On-Brand Marketing-E-Mails">Erstellen von On-Brand Marketing-E-Mails</a>
+                        <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" title="Erstellen von markeninternen Marketing-E-Mails">Erstellen von markeninternen Marketing-E-Mails</a>
                     </p>
                     <p class="is-size-6">Sehen Sie sich eine detaillierte Erklärung dazu an, wie Sie markenkonforme Marketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing] erstellen.</p>
                 </div>
@@ -89,8 +89,8 @@ Optimale Nutzung von [!DNL GenStudio for Performance Marketing]. Verwenden Sie d
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="./creating-experiences/creating-on-meta-ads.md" title="Erstellen von On-Brand-Metadatenanzeigen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Erstellen von On-Brand-Metadatenanzeigen"
+                    <a href="./creating-experiences/creating-on-meta-ads.md" title="Erstellen von markeninternen Meta-Anzeigen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Erstellen von markeninternen Meta-Anzeigen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -98,7 +98,7 @@ Optimale Nutzung von [!DNL GenStudio for Performance Marketing]. Verwenden Sie d
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="Erstellen von On-Brand-Metadatenanzeigen">Erstellen von On-Brand-Metadatenanzeigen</a>
+                        <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" title="Erstellen von markeninternen Meta-Anzeigen">Erstellen von markeninternen Meta-Anzeigen</a>
                     </p>
                     <p class="is-size-6">Folgen Sie einer detaillierten Anleitung zur Erstellung einer Meta-Anzeige in [!DNL GenStudio for Performance Marketing].</p>
                 </div>

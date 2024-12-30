@@ -1,6 +1,6 @@
 ---
-title: Erstellen von On-Brand-Metadatenanzeigen
-description: Folgen Sie einer schrittweisen Anleitung zum Erstellen einer Meta-Anzeige in  [!DNL GenStudio for Performance Marketing].
+title: Erstellen von markeninternen Meta-Anzeigen
+description: Folgen Sie der schrittweisen Anleitung zum Erstellen einer Meta-Anzeige in  [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
@@ -15,7 +15,7 @@ ht-degree: 36%
 
 ---
 
-# Erstellen von markeninternen Metaanzeigen
+# Erstellen von markeninternen Meta-Anzeigen
 
 Folgen Sie einer detaillierten Anleitung zur Erstellung einer Meta-Anzeige in [!DNL GenStudio for Performance Marketing].
 
