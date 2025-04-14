@@ -1,6 +1,6 @@
 ---
-title: Markenspezifische Marketing-E-Mails Erstellen
-description: Ansicht eine Schritt-für-Schritt-Anleitung, wie Sie mit Adobe Systems Marketing E-Mails Werbetreibender [!DNL GenStudio for Performance Marketing] erstellen.
+title: Erstellen von markeninternen Marketing-E-Mails
+description: Sehen Sie sich eine schrittweise Erklärung zum Erstellen von markenbezogenen Marketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing] an.
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
 level: Beginner, Intermediate, Experienced
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Erstellen Werbetreibender Marketing E-Mails
+# Erstellen von markeninternen Marketing-E-Mails
 
-Eine Schritt-für-Schritt-Anleitung, wie Sie mit Adobe Systems [!DNL GenStudio for Performance Marketing]Werbetreibender Marketing E-Mails erstellen.
+Eine schrittweise Erklärung zum Erstellen von markenbezogenen Marketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
