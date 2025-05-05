@@ -20,4 +20,4 @@ ht-degree: 83%
 
 In diesem Video wird detailliert erläutert, wie Sie die Markenrichtlinien, Produkte und wichtigen Marketing-Personas Ihres Unternehmens in GenStudio for Performance Marketing integrieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439380/?learn=on&enablevpops&captions=ger)
