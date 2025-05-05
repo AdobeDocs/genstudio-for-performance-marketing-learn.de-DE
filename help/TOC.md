@@ -13,7 +13,7 @@ ht-degree: 4%
 # Tutorials zu Adobe [!DNL GenStudio for Performance Marketing] {#tutorials}
 
 + [[!DNL GenStudio for Performance Marketing] Tutorials](overview.md)
-+ {#inputing-your-brand} eingeben
++ eingeben{#inputing-your-brand}
    + [Eingabe von Marke, Produkt und Persona](./inputting-your-brand/inputting-brand-product-persona.md)
 + Erstellen von Erlebnissen {#creating-experiences}
    + [Erstellen von markeninternen Marketing-E-Mails](./creating-experiences/creating-on-brand-emails.md)
