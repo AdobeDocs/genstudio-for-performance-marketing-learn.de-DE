@@ -1,14 +1,14 @@
 ---
-title: Tutorials von GenStudio for Performance Marketing
+title: GenStudio for Performance Marketing-Tutorials
 description: Sehen Sie sich Video-Tutorials zu den Funktionen von GenStudio for Performance Marketing an. Erfahren Sie, wie Sie schnell markenkonforme Assets erstellen, Varianten generieren und Erlebnisse optimieren können.
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
+source-git-commit: 61a80be078be8ef78113c8fb472c8fee80334001
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 27%
+ht-degree: 43%
 
 ---
 
@@ -31,7 +31,7 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="Eingabe von Marke, Produkt und Persona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439380/?format=jpeg&nocache=1732633204686&captions=ger" alt="Eingabe von Marke, Produkt und Persona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="Eingabe von Marke, Produkt und Persona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -44,8 +44,8 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
                     <p class="is-size-6">In diesem Video wird detailliert erläutert, wie Sie die Markenrichtlinien, Produkte und wichtigen Marketing-Personas Ihres Unternehmens in GenStudio for Performance Marketing integrieren.</p>
                 </div>
                 <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-</a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
             </div>
         </div>
     </div>
@@ -67,7 +67,7 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="Erstellen von markeninternen Marketing-E-Mails" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435076/?format=jpeg&nocache=1732633205780&captions=ger" alt="Erstellen von markeninternen Marketing-E-Mails"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="Erstellen von markeninternen Marketing-E-Mails"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -80,8 +80,8 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
                     <p class="is-size-6">Sehen Sie sich eine detaillierte Erklärung dazu an, wie Sie markenkonforme Marketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing] erstellen.</p>
                 </div>
                 <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-</a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-meta-ads.md" title="Erstellen von markeninternen Meta-Anzeigen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435087/?format=jpeg&nocache=1732633205785&captions=ger" alt="Erstellen von markeninternen Meta-Anzeigen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Erstellen von markeninternen Meta-Anzeigen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -103,8 +103,8 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
                     <p class="is-size-6">Folgen Sie einer detaillierten Anleitung zur Erstellung einer Meta-Anzeige in [!DNL GenStudio for Performance Marketing].</p>
                 </div>
                 <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-</a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
             </div>
         </div>
     </div>
@@ -141,7 +141,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435076?format=jpeg&captions=ger" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -154,7 +154,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435087?format=jpeg&captions=ger" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
@@ -172,6 +172,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 -->
