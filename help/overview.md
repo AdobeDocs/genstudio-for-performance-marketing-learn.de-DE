@@ -5,9 +5,9 @@ role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 61a80be078be8ef78113c8fb472c8fee80334001
+source-git-commit: 733b1be3d4ff8ec93ec4f2e8a1cc89ddbb1b8646
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '174'
 ht-degree: 43%
 
 ---
@@ -19,7 +19,8 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
 
 ## Marke eingeben
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./inputting-your-brand/inputting-brand-product-persona.md
 
@@ -31,7 +32,7 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./inputting-your-brand/inputting-brand-product-persona.md" title="Eingabe von Marke, Produkt und Persona" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439380/?captions=ger&format=jpeg&nocache=1732633204686" alt="Eingabe von Marke, Produkt und Persona"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439371/?format=jpeg&nocache=1732633204686" alt="Eingabe von Marke, Produkt und Persona"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -54,7 +55,8 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
 
 ## Erstellen von Erlebnissen
 
-<!-- CARDS
+<!--
+CARDS
 
 * ./creating-experiences/creating-on-brand-emails.md
 * ./creating-experiences/creating-on-meta-ads.md
@@ -67,7 +69,7 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-brand-emails.md" title="Erstellen von markeninternen Marketing-E-Mails" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435076/?captions=ger&format=jpeg&nocache=1732633205780" alt="Erstellen von markeninternen Marketing-E-Mails"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435056/?format=jpeg&nocache=1732633205780" alt="Erstellen von markeninternen Marketing-E-Mails"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,7 +92,7 @@ Holen Sie das Meiste aus [!DNL GenStudio for Performance Marketing]. Verwenden S
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="./creating-experiences/creating-on-meta-ads.md" title="Erstellen von markeninternen Meta-Anzeigen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435087/?captions=ger&format=jpeg&nocache=1732633205785" alt="Erstellen von markeninternen Meta-Anzeigen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3435057/?format=jpeg&nocache=1732633205785" alt="Erstellen von markeninternen Meta-Anzeigen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -141,7 +143,7 @@ Curated learning experiences by role and skill level are also offered in the cou
 <tr>
   <td>
     <a href="./creating-experiences/creating-on-brand-emails.md">
-      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435076?captions=ger&format=jpeg" />
+      <img alt="Creating On-Brand Marketing Emails" src="https://video.tv.adobe.com/v/3435056?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-brand-emails.md">
@@ -154,7 +156,7 @@ Curated learning experiences by role and skill level are also offered in the cou
   </td>
   <td>
     <a href="./creating-experiences/creating-on-meta-ads.md">
-      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435087?captions=ger&format=jpeg" />
+      <img alt="Creating On-Brand Meta Ads" src="https://video.tv.adobe.com/v/3435057?format=jpeg" />
     </a>
     <div>
       <a href="./creating-experiences/creating-on-meta-ads.md">
@@ -172,6 +174,6 @@ Curated learning experiences by role and skill level are also offered in the cou
  
 ## Additional resources
 
-[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
+[Adobe Analytics documentation](https://experienceleague.adobe.com/docs/analytics.html)
 
 -->
