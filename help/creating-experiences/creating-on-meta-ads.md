@@ -38,4 +38,4 @@ ht-degree: 36%
 
 Folgen Sie einer detaillierten Anleitung zur Erstellung einer Meta-Anzeige in [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435087/?captions=ger&learn=on)

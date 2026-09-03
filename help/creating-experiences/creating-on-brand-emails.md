@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Eine schrittweise Erklärung zum Erstellen von markenbezogenen Marketing-E-Mails mit Adobe [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435076/?captions=ger&learn=on)
