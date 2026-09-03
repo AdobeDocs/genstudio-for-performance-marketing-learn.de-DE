@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [[!DNL GenStudio for Performance Marketing] Tutorials](overview.md)
 + Marke eingeben {#inputing-your-brand}
-   + [Eingabe von Marke, Produkt und Persona](./inputting-your-brand/inputting-brand-product-persona.md)
+  + [Eingabe von Marke, Produkt und Persona](./inputting-your-brand/inputting-brand-product-persona.md)
 + Erstellen von Erlebnissen {#creating-experiences}
-   + [Erstellen von markeninternen Marketing-E-Mails](./creating-experiences/creating-on-brand-emails.md)
-   + [Erstellen von markeninternen Meta-Anzeigen](./creating-experiences/creating-on-meta-ads.md)
+  + [Erstellen von markeninternen Marketing-E-Mails](./creating-experiences/creating-on-brand-emails.md)
+  + [Erstellen von markeninternen Meta-Anzeigen](./creating-experiences/creating-on-meta-ads.md)
